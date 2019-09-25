@@ -35,22 +35,22 @@ In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud
 * 11. [Access to the Virtual Instance by console in VDC Service](#11.-access-to-the-virtual-instance-by-console-in-vdc-service)
 
 
-### 1. Create Virtual Data Center Service
+#### 1. Create Virtual Data Center Service
 #### [Virtual Data Center Link ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center Link")
 
 ![](images/vdc1.gif)
 ![](images/vdc2.gif)
-### 2. Accsess to VDC Service 
+#### 2. Accsess to VDC Service 
 ![](images/vdc3.gif)
 
-### 3. Creating a Virtual Router 
+#### 3. Creating a Virtual Router 
 #### Folow the [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
 
 ```
 Router Name = Router 1
 ```
 
-### 4. Creating a Virtual Network 
+#### 4. Creating a Virtual Network 
 #### Folow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
 ```
 Network Name = Network 1
@@ -59,7 +59,7 @@ Network Address = 10.10.10.0/24
 ```
 
 
-### 5. Creating a Security Group
+#### 5. Creating a Security Group
 A security group is a named collection of network access rules that are use to limit the types of traffic that have access to instances. When you launch an instance, you can assign one or more security groups to it. 
 
 ```
@@ -73,13 +73,13 @@ For this lab we will allow all traffic so is not recommended for real applicatio
  Rule = ALL TCP
  ```
 
-### 6. Creating a Key Pairs
+#### 6. Creating a Key Pairs
 ![](images/vdc5.gif)
 ```
 Key Pairs Name = KeyPair
 ```
 
-### 7. Creating or Launching a Virtual Instance 
+#### 7. Creating or Launching a Virtual Instance 
 #### Folow the [Video Guide](https://youtu.be/Z7Q5n6i7dHI "Video Guide")
 
 ```
@@ -101,10 +101,10 @@ Key Pairs = Key Pairs 1
 ```
 
 
-### 8. Assign Floating IP to The Instance 
+#### 8. Assign Floating IP to The Instance 
 ![](images/vdc6.gif)
 
-### 9. Connecting to The Virtual Instance  
+#### 9. Connecting to The Virtual Instance  
 ```
 Note*
 For this lab we will connect to Ubuntu-18.04-LTS
@@ -120,7 +120,7 @@ ssh -i [path of key pair ]/keypair.pem ubuntu@[floatingip]
 ```
 Example: ssh -i /Users/Omar/Downloads/keypair.pem ubuntu@95.177.166.233
 
-### 10. Change Root Password
+#### 10. Change Root Password
 ```
 sudo su 
 ```
@@ -136,7 +136,7 @@ Then
 service ssh restart  
 ```
 
-### 11. Access to the Virtual Instance by console in VDC Service
+#### 11. Access to the Virtual Instance by console in VDC Service
 ![](images/vdc8.gif)
 
 
