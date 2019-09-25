@@ -160,6 +160,7 @@ Example: ssh -i /Users/Omar/Downloads/keypair.pem ubuntu@95.177.166.233
 
 
 ### Change Root Password
+In the same previous terminal enter
 ```
 sudo su 
 ```
