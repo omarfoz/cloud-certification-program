@@ -59,7 +59,7 @@ login with your username and password
 ![](images/vdc3.gif)
 
 ### Creating a Virtual Router 
-#### Folow the [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
+#### Follow the [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
 
 ```
 Router Name = Router 1
@@ -70,7 +70,7 @@ Router Name = Router 1
 
 
 ### Creating a Virtual Network 
-#### Folow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
+#### Follow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
 ```
 Network Name = Network 1
 Subnet Name = Subnet 1-1
@@ -107,7 +107,7 @@ Key Pairs Name = KeyPair
 
 
 ### Creating or Launching a Virtual Instance 
-#### Folow the [Video Guide](https://youtu.be/Z7Q5n6i7dHI "Video Guide")
+#### Follow the [Video Guide](https://youtu.be/Z7Q5n6i7dHI "Video Guide")
 
 ```
 Note*
