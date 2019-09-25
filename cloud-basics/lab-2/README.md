@@ -13,8 +13,6 @@
 
 ### Introduction
 In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud.
-* Virtual Data Center
- is a form of cloud computing that provides virtualized computing resources over the Internet
 
 
 ## Prerequisites
@@ -38,7 +36,8 @@ In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud
 
 
 ### Create Virtual Data Center Service
-#### [Virtual Data Center Link ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center Link")
+#### Virtual Data Center
+ is a form of cloud computing that provides virtualized computing resources over the Internet - [Virtual Data Center Link ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center Link")
 
 ![](images/vdc1.gif)
 ![](images/vdc2.gif)
@@ -47,6 +46,9 @@ In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud
 
 
 ### Accsess to VDC Service 
+on bluvalt click on dashboard
+![](images/vdc2.png)
+
 ![](images/vdc3.gif)
 
 ### Creating a Virtual Router 
