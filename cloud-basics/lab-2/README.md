@@ -47,7 +47,7 @@ it will take around 2 minutes to be ready
 
 
 ### Accsess to VDC Service 
-On bluvalt click on dashboard
+On Bluvalt Cloud click on dashboard
 ![](images/vdc2.png)
 
 Then click on Subscriptions then click on go to service 
