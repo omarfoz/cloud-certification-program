@@ -187,5 +187,5 @@ service ssh restart
 
 
 ## Conclusion 
-Congratulations! You now have your own Virtual Data Center Service. You can start deploy your Applcations in the cloud!.
+Congratulations! You now have your own Virtual Data Center Service and Ubuntu Virtual Instance . You can start deploy your Applcations in the cloud!.
 
