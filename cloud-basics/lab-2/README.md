@@ -22,7 +22,7 @@ In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud
  
 
 ## Lab Steps
-* 1. [Create Virtual Data Center](#1.-create-virtual-data-center-service)
+* [1. Create Virtual Data Center](#1.-create-virtual-data-center-service)
 * 2. [Accsess to VDC Service](#2.-accsess-to-vdc-service)
 * 3. [Creating a Virtual Router](#3.-creating-a-virtual-router)
 * 4. [Creating a Virtual Network](#4.-creating-a-virtual-network)
