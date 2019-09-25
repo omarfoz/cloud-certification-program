@@ -47,9 +47,12 @@ it will take around 5 minutes to be ready
 
 
 ### Accsess to VDC Service 
-on bluvalt click on dashboard
+On bluvalt click on dashboard
 ![](images/vdc2.png)
 
+Then click on Subscriptions then clcik on go to service 
+![](images/vdc3.png)
+login with your username and password
 ![](images/vdc3.gif)
 
 ### Creating a Virtual Router 
