@@ -50,7 +50,7 @@ it will take around 2 minutes to be ready
 On Bluvalt Cloud click on dashboard
 ![](images/vdc2.png)
 
-Then click on Subscriptions then click on go to service 
+Then click on Subscriptions then click on Go to service 
 
 ![](images/vdc3.png)
 
