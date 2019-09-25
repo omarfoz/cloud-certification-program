@@ -22,17 +22,17 @@ In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud
  
 
 ## Lab Steps
-* 1. [Create Virtual Data Center](#1.-create-virtual-data-center-service)
-* 2. [Accsess to VDC Service](#2.-accsess-to-vdc-service)
-* 3. [Creating a Virtual Router](#3.-creating-a-virtual-router)
-* 4. [Creating a Virtual Network](#4.-creating-a-virtual-network)
-* 5. [Creating a Security Group](#5.-creating-a-security-group)
-* 6. [Creating a Key Pairs](#6.-creating-a-key-pairs)
-* 7. [Creating or Launching a Virtual Instance](#7.-creating-or-launching-a-virtual-instance)
-* 8. [Assign Floating IP to The Instance](#8.-assign-floating-ip-to-the-instance)
-* 9. [Connecting to The Virtual Instance](#9.-connecting-to-the-virtual-instance)
-* 10. [Change Root Password](#10.-change-root-password)
-* 11. [Access to the Virtual Instance by console in VDC Service](#11.-access-to-the-virtual-instance-by-console-in-vdc-service)
+* 1. [Create Virtual Data Center Service](#create-virtual-data-center-service)
+* 2. [Accsess to VDC Service](#accsess-to-vdc-service)
+* 3. [Creating a Virtual Router](#creating-a-virtual-router)
+* 4. [Creating a Virtual Network](#creating-a-virtual-network)
+* 5. [Creating a Security Group](#creating-a-security-group)
+* 6. [Creating a Key Pairs](#creating-a-key-pairs)
+* 7. [Creating or Launching a Virtual Instance](#creating-or-launching-a-virtual-instance)
+* 8. [Assign Floating IP to The Instance](#assign-floating-ip-to-the-instance)
+* 9. [Connecting to The Virtual Instance](#connecting-to-the-virtual-instance)
+* 10. [Change Root Password](#change-root-password)
+* 11. [Access to the Virtual Instance by console in VDC Service](#access-to-the-virtual-instance-by-console-in-vdc-service)
 
 
 #### Create Virtual Data Center Service
