@@ -28,11 +28,11 @@ Virtual Data Center is a form of cloud computing that provides virtualized compu
 * 4. [Creating a Virtual Network](#4.-Creating-a-Virtual-Network)
 * 5. [Creating a Security Group](#5.-Creating-a-Security-Group)
 * 6. [Creating a Key Pairs](#6.-Creating-a-Key-Pairs)
-* 7. [Creating or Launching a Virtual Instanc](#7.-Creating-or-Launching-a-Virtual-Instance)
+* 7. [Creating or Launching a Virtual Instance](#7.-Creating-or-Launching-a-Virtual-Instance)
 * 8. [Assign Floating IP to The Instance](#8.-Assign-Floating-IP-to-The-Instance)
-* 9. [Creating or Launching a Virtual Instanc](#9.-Creating-or-Launching-a-Virtual-Instance)
-* 10. [Creating or Launching a Virtual Instanc](#10.-Creating-or-Launching-a-Virtual-Instance)
-* 11. [Creating or Launching a Virtual Instanc](#11.-Creating-or-Launching-a-Virtual-Instance)
+* 9. [Connecting to The Virtual Instance](#9.-connecting-to-The-Virtual-Instance)
+* 10. [Change Root Password](#10.-Change-Root-Password)
+* 11. [Access to the Virtual Instance by console in VDC Service](#11.-Access-to-the-Virtual-Instance-by-console-in-VDC-Service)
 
 
 ### 1. Create [Virtual Data Center ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center ") Service
@@ -102,7 +102,7 @@ Key Pairs = Key Pairs 1
 ### 8. Assign Floating IP to The Instance 
 ![](images/vdc6.gif)
 
-### 9. connecting to The Virtual Instance  
+### 9. Connecting to The Virtual Instance  
 ```
 Note*
 For this lab we will connect to Ubuntu-18.04-LTS
@@ -118,7 +118,7 @@ ssh -i [path of key pair ]/keypair.pem ubuntu@[floatingip]
 ```
 Example: ssh -i /Users/Omar/Downloads/keypair.pem ubuntu@95.177.166.233
 
-### 10. change Root Password
+### 10. Change Root Password
 ```
 sudo su 
 ```
@@ -134,7 +134,7 @@ Then
 service ssh restart  
 ```
 
-### 11. access a virtual Instance by console in VDC Service
+### 11. Access to the Virtual Instance by console in VDC Service
 ![](images/vdc8.gif)
 
 
