@@ -42,7 +42,7 @@ In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud
 ![](images/vdc1.gif)
 ![](images/vdc2.gif)
 
-it will take around 5 minutes to be ready
+it will take around 2 minutes to be ready
 
 
 
