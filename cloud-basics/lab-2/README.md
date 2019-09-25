@@ -58,7 +58,9 @@ login with your username and password
 
 ![](images/vdc3.gif)
 
-### Creating a Virtual Router 
+### Creating a Virtual Router
+a router is a networking device used to connect your virtual instance to the internet 
+
 #### Follow the [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
 
 ```
@@ -69,7 +71,9 @@ Router Name = Router 1
 
 
 
-### Creating a Virtual Network 
+### Creating a Virtual Network
+Used to create a virtual networking inside VDC to communicate instances with each other and router
+
 #### Follow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
 ```
 Network Name = Network 1
