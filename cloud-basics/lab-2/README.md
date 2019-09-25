@@ -4,8 +4,16 @@
   <img src='images/vdc.png ' width="200" />
 </p>
 
-## Introduction
-In this tutorial we will make our own Virtual Data Center Service using Bluvalt Cloud.
+
+### Table of Contents
+* [Introduction](#introduction)
+* [Virtual Data Center](#virtual-data-center)
+* [Prerequisites](#Prerequisites)
+* [Lab Steps](#lab-steps)
+* [Conclusion](#conclusion)
+
+### Introduction
+In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud.
 
 ### Virtual Data Center
 Virtual Data Center is a form of cloud computing that provides virtualized computing resources over the Internet
@@ -13,20 +21,35 @@ Virtual Data Center is a form of cloud computing that provides virtualized compu
 * [Bluvalt Cloud Account](https://cloud.bluvalt.com/#/register "Bluvalt Cloud")
  
 
-
 ## Lab Steps
+* 1. [Create Virtual Data Center](#1.-Create-virtual-data-center-service)
+* 2. [Accsess to VDC Service](#2.-Accsess-to-vdc-service)
+* 3. [Creating a Virtual Router](#3.-creating-a-virtual-router)
+* 4. [Creating a Virtual Network](#4.-Creating-a-Virtual-Network)
+* 5. [Creating a Security Group](#5.-Creating-a-Security-Group)
+* 6. [Creating a Key Pairs](#6.-Creating-a-Key-Pairs)
+* 7. [Creating or Launching a Virtual Instanc](#7.-Creating-or-Launching-a-Virtual-Instance)
+* 8. [Assign Floating IP to The Instance](#8.-Assign-Floating-IP-to-The-Instance)
+* 9. [Creating or Launching a Virtual Instanc](#9.-Creating-or-Launching-a-Virtual-Instance)
+* 10. [Creating or Launching a Virtual Instanc](#10.-Creating-or-Launching-a-Virtual-Instance)
+* 11. [Creating or Launching a Virtual Instanc](#11.-Creating-or-Launching-a-Virtual-Instance)
+
+
 ### 1. Create [Virtual Data Center ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center ") Service
 ![](images/vdc1.gif)
 ![](images/vdc2.gif)
 ### 2. Accsess to VDC Service 
 ![](images/vdc3.gif)
 
-### 3. Creating a Virtual Router - [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
+### 3. Creating a Virtual Router 
+#### Folow the [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
+
 ```
 Router Name = Router 1
 ```
 
-### 4. Creating a Virtual Network - [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
+### 4. Creating a Virtual Network 
+#### Folow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
 ```
 Network Name = Network 1
 Subnet Name = Subnet 1-1
@@ -39,7 +62,7 @@ A security group is a named collection of network access rules that are use to l
 
 ```
 Note*
-For this Tutorial we will allow all traffic so is not recommended for real application.
+For this lab we will allow all traffic so is not recommended for real application.
 ```
 ![](images/vdc4.gif)
 
@@ -54,11 +77,12 @@ For this Tutorial we will allow all traffic so is not recommended for real appli
 Key Pairs Name = KeyPair
 ```
 
-### 7. Creating or Launching a Virtual Instance - [Video Guide](https://youtu.be/Z7Q5n6i7dHI "Video Guide")
+### 7. Creating or Launching a Virtual Instance 
+#### Folow the [Video Guide](https://youtu.be/Z7Q5n6i7dHI "Video Guide")
 
 ```
 Note*
-For this Tutorial we will Select Ubuntu-18.04-LTS Image, You can select anything you want.
+For this lab we will Select Ubuntu-18.04-LTS Image, You can select anything you want.
 ```
 
 ```
@@ -81,7 +105,7 @@ Key Pairs = Key Pairs 1
 ### 9. connecting to The Virtual Instance  
 ```
 Note*
-For this Tutorial we will connect to Ubuntu-18.04-LTS
+For this lab we will connect to Ubuntu-18.04-LTS
 ```
 For every Image there a way to connect them please visit The [Knowledge base](https://kb.bluvalt.com/ "Knowledge base") for more information
 
@@ -93,6 +117,25 @@ sudo su
 ssh -i [path of key pair ]/keypair.pem ubuntu@[floatingip] 
 ```
 Example: ssh -i /Users/Omar/Downloads/keypair.pem ubuntu@95.177.166.233
+
+### 10. change Root Password
+```
+sudo su 
+```
+Then set a password for root user too
+
+```
+passwd root
+```
+and enter the new password for root user and confirm the same.
+
+Then
+```
+service ssh restart  
+```
+
+### 11. access a virtual Instance by console in VDC Service
+![](images/vdc8.gif)
 
 
 ## Conclusion 
