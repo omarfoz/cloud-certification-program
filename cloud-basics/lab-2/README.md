@@ -1,7 +1,7 @@
 # Virtual Data Center
 
  <p align="center">
-  <img src='cloud-basics/images/vdc.png ' width="200" />
+  <img src='images/vdc.png ' width="200" />
 </p>
 
 ## Introduction
@@ -16,10 +16,10 @@ Virtual Data Center is a form of cloud computing that provides virtualized compu
 
 ## Lab Steps
 ### 1. Create [Virtual Data Center ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center ") Service
-![](cloud-basics/images/vdc1.gif)
-![](cloud-basics/images/vdc2.gif)
+![](images/vdc1.gif)
+![](images/vdc2.gif)
 ### 2. Accsess to VDC Service 
-![](cloud-basics/images/vdc3.gif)
+![](images/vdc3.gif)
 
 ### 3. Creating a Virtual Router - [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
 ```
@@ -41,7 +41,7 @@ A security group is a named collection of network access rules that are use to l
 Note*
 For this Tutorial we will allow all traffic so is not recommended for real application.
 ```
-![](cloud-basics/images/vdc4.gif)
+![](images/vdc4.gif)
 
  ```
  Security Name = Security Group 1
@@ -49,7 +49,7 @@ For this Tutorial we will allow all traffic so is not recommended for real appli
  ```
 
 ### 6. Creating a Key Pairs
-![](cloud-basics/images/vdc5.gif)
+![](images/vdc5.gif)
 ```
 Key Pairs Name = KeyPair
 ```
@@ -76,7 +76,7 @@ Key Pairs = Key Pairs 1
 
 
 ### 8. Assign Floating IP to The Instance 
-![](cloud-basics/images/vdc6.gif)
+![](images/vdc6.gif)
 
 ### 9. connecting to The Virtual Instance  
 ```
@@ -85,7 +85,7 @@ For this Tutorial we will connect to Ubuntu-18.04-LTS
 ```
 For every Image there a way to connect them please visit The [Knowledge base](https://kb.bluvalt.com/ "Knowledge base") for more information
 
-![](cloud-basics/images/vdc7.gif)
+![](images/vdc7.gif)
 
 Open the Terminal and Enter:
 ```
