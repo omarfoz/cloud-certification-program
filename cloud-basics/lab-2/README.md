@@ -8,7 +8,7 @@
 ### Table of Contents
 * [Introduction](#introduction)
 * [Virtual Data Center](#virtual-data-center)
-* [Prerequisites](#Prerequisites)
+* [Prerequisites](#prerequisites)
 * [Lab Steps](#lab-steps)
 * [Conclusion](#conclusion)
 
@@ -22,17 +22,17 @@ Virtual Data Center is a form of cloud computing that provides virtualized compu
  
 
 ## Lab Steps
-* 1. [Create Virtual Data Center](#1.-Create-virtual-data-center-service)
-* 2. [Accsess to VDC Service](#2.-Accsess-to-vdc-service)
+* 1. [Create Virtual Data Center](#1.-create-virtual-data-center-service)
+* 2. [Accsess to VDC Service](#2.-accsess-to-vdc-service)
 * 3. [Creating a Virtual Router](#3.-creating-a-virtual-router)
-* 4. [Creating a Virtual Network](#4.-Creating-a-Virtual-Network)
-* 5. [Creating a Security Group](#5.-Creating-a-Security-Group)
-* 6. [Creating a Key Pairs](#6.-Creating-a-Key-Pairs)
-* 7. [Creating or Launching a Virtual Instance](#7.-Creating-or-Launching-a-Virtual-Instance)
-* 8. [Assign Floating IP to The Instance](#8.-Assign-Floating-IP-to-The-Instance)
-* 9. [Connecting to The Virtual Instance](#9.-connecting-to-The-Virtual-Instance)
-* 10. [Change Root Password](#10.-Change-Root-Password)
-* 11. [Access to the Virtual Instance by console in VDC Service](#11.-Access-to-the-Virtual-Instance-by-console-in-VDC-Service)
+* 4. [Creating a Virtual Network](#4.-creating-a-Virtual-Network)
+* 5. [Creating a Security Group](#5.-creating-a-Security-Group)
+* 6. [Creating a Key Pairs](#6.-creating-a-Key-Pairs)
+* 7. [Creating or Launching a Virtual Instance](#7.-creating-or-launching-a-virtual-instance)
+* 8. [Assign Floating IP to The Instance](#8.-assign-floating-ip-to-the-instance)
+* 9. [Connecting to The Virtual Instance](#9.-connecting-to-the-virtual-instance)
+* 10. [Change Root Password](#10.-change-root-password)
+* 11. [Access to the Virtual Instance by console in VDC Service](#11.-access-to-the-virtual-instance-by-console-in-vdc-service)
 
 
 ### 1. Create [Virtual Data Center ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center ") Service
