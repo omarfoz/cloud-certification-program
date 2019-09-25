@@ -12,7 +12,7 @@
 * [Conclusion](#conclusion)
 
 ### Introduction
-In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud.
+In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud and we will deploy Ubuntu on our virtual instance.
 
 
 ## Prerequisites
@@ -72,7 +72,7 @@ Router Name = Router 1
 
 
 ### Creating a Virtual Network
-Used to create a virtual networking inside VDC to communicate instances with each other and router
+Used to communicate instances with each other and routers
 
 #### Follow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
 ```
