@@ -7,16 +7,16 @@
 
 ### Table of Contents
 * [Introduction](#introduction)
-* [Virtual Data Center](#virtual-data-center)
 * [Prerequisites](#prerequisites)
 * [Lab Steps](#lab-steps)
 * [Conclusion](#conclusion)
 
 ### Introduction
 In this lab we will make our own Virtual Data Center Service using Bluvalt Cloud.
+* Virtual Data Center
+ is a form of cloud computing that provides virtualized computing resources over the Internet
 
-### Virtual Data Center
-Virtual Data Center is a form of cloud computing that provides virtualized computing resources over the Internet
+
 ## Prerequisites
 * [Bluvalt Cloud Account](https://cloud.bluvalt.com/#/register "Bluvalt Cloud")
  
