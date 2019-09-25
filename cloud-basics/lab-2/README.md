@@ -35,7 +35,9 @@ Virtual Data Center is a form of cloud computing that provides virtualized compu
 * 11. [Access to the Virtual Instance by console in VDC Service](#11.-access-to-the-virtual-instance-by-console-in-vdc-service)
 
 
-### 1. Create [Virtual Data Center ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center ") Service
+### 1. Create Virtual Data Center Service
+#### [Virtual Data Center Link ](https://cloud.bluvalt.com/#/virtual-data-center/ "Virtual Data Center Link")
+
 ![](images/vdc1.gif)
 ![](images/vdc2.gif)
 ### 2. Accsess to VDC Service 
