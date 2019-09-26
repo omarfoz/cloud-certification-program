@@ -29,9 +29,11 @@ First open [STC Cloud](https://cloud.stc.com.sa/ "STC Cloud")
 First open [Bluvalt Cloud](https://cloud.bluvalt.com/ "Bluvalt Cloud").
 
 Next click on [Sign Up](https://cloud.bluvalt.com/#/register "Sign Up").
+
 ![](images/bluvalt1.png)
 
 Next fill all required fields
+
 ![](images/bluvalt.gif)
 
 Next Click Sign Up
