@@ -47,4 +47,6 @@ Next open your email and confirm your registration
 Congratulation!
 
 ![](images/bluvalt3.gif)
+
+
 Now you can login and start using Bluvalt Cloud
