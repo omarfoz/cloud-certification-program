@@ -10,7 +10,7 @@
 ## Introduction
 In this lab we will create our account in STC Cloud and Bluvalt Cloud.
 
-## Lab Steps
+### Lab Steps
 * 1. [Create Accont in STC Cloud](#create-accont-in-stc-cloud)
 * 2. [Create Accont in Bluvalt Cloud](#create-accont-in-bluvalt-cloud)
 
