@@ -1,9 +1,5 @@
 # Create Account in STC Cloud and Bluvalt Cloud
 
- <p align="center">
-  <img src='images/vdc.png ' width="200" />
-</p>
-
 
 ### Table of Contents
 * [Introduction](#introduction)
