@@ -37,9 +37,11 @@ Next fill all required fields
 ![](images/bluvalt.gif)
 
 Next Click Sign Up
+
 ![](images/bluvalt2.png)
 
 Next open your email and confirm your registration
+
 ![](images/bluvalt2.gif)
 
 Congratulation!
