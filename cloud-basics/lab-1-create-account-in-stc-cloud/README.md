@@ -18,7 +18,7 @@ First open [STC Cloud](https://cloud.stc.com.sa/ "STC Cloud")
 
 Next click on [Create Organization Account](https://cloud.stc.com.sa/customer/request-registration/ "create organization account").
 
-saudi-regulations/
+
 ![](images/stccloud1.png)
 
 Next fill all required fields
