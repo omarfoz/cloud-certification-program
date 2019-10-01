@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Create Accont in STC Cloud](#create-accont-in-stc-cloud)
-* [Conclusion](#conclusion)
+
 
 
 ## Introduction
