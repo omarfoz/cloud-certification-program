@@ -3,46 +3,57 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Lab Steps](#lab-steps)
+* [Create Accont in STC Cloud](#create-accont-in-stc-cloud)
 * [Conclusion](#conclusion)
 
 
 ## Introduction
-In this lab we will create our account in STC Cloud and Bluvalt Cloud.
-
-### Lab Steps
-* 1. [Create Accont in STC Cloud](#create-accont-in-stc-cloud)
-* 2. [Create Accont in Bluvalt Cloud](#create-accont-in-bluvalt-cloud)
-
+In this lab we will create our account in STC Cloud
 
 
 ## Create Accont in STC Cloud
+In order to create an account for STC Cloud, follow the steps.
+
 First open [STC Cloud](https://cloud.stc.com.sa/ "STC Cloud")
 
+Next click on [Create Organization Account](https://cloud.stc.com.sa/customer/request-registration/ "create organization account").
 
-
-## Create Accont in Bluvalt Cloud
-First open [Bluvalt Cloud](https://cloud.bluvalt.com/ "Bluvalt Cloud").
-
-Next click on [Sign Up](https://cloud.bluvalt.com/#/register "Sign Up").
-
-![](images/bluvalt1.png)
+saudi-regulations/
+![](images/stccloud1.png)
 
 Next fill all required fields
 
-![](images/bluvalt.gif)
+![](images/stccloud1.gif) 
 
-Next Click Sign Up
 
-![](images/bluvalt2.png)
+Note*
+* For more information about Security Classification Level vist [Saudi Regulations](https://cloud.stc.com.sa/saudi-regulations/ "saudi-regulations")
 
-Next open your email and confirm your registration
+* Referral code is simply a unique combination of numbers, letters, or both which are used as an identifier. Businesses use referral codes for their referral programs
 
-![](images/bluvalt2.gif)
+Next
+* Click on Create Organization Account
+* A confirmation page will appear
+* You will receive a confirmation email within 24 hours
+* Once you have received your email, click on the activation link to access your account
+
+![](images/stccloud2.png)
+
+
+Next after logging in your account information will open the main page of the account
+
+![](images/stccloud3.png)
+
+Next
+* To complete your STC Cloud registration and sign up for services, link your MY BUSINESS account for billing.
+
+* If you do not have a MY BUSINESS account, please visit your nearest STC Aamal branch, contact your account manager or call 909
+
+* To link the account please click on financial and choose the account link.
+
+![](images/stccloud4.png)
+
+You will see the registration page, enter your My BUSINESS account and then the password, then press (next step) so that your account is linked and you can subscribe (Subscriptions) and enjoy all STC Cloud services available.
 
 Congratulation!
-
-![](images/bluvalt3.gif)
-
-
-Now you can login and start using Bluvalt Cloud
+Now you can start using STC Cloud

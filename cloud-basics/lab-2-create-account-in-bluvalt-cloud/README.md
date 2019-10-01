@@ -11,6 +11,8 @@
 In this lab we will create our account in STC Cloud and Bluvalt Cloud.
 
 ## Create Accont in Bluvalt Cloud
+In order to create an account for Bluvalt Cloud, follow the steps.
+
 First open [Bluvalt Cloud](https://cloud.bluvalt.com/ "Bluvalt Cloud").
 
 Next click on [Sign Up](https://cloud.bluvalt.com/#/register "Sign Up").
