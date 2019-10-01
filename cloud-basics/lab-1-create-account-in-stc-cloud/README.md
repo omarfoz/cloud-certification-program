@@ -53,7 +53,7 @@ Next
 
 ![](images/stccloud4.png)
 
-You will see the registration page, enter your My BUSINESS account and then the password, then press (next step) so that your account is linked and you can subscribe (Subscriptions) and enjoy all STC Cloud services available.
+You will see the registration page, enter your My BUSINESS account and then the password, then press (next step) so that your account is linked.
 
 Congratulation!
-Now you can start using STC Cloud
+Now you can subscribe (Subscriptions) and enjoy all STC Cloud services available.
