@@ -29,7 +29,7 @@ Next fill all required fields
 Note*
 * For more information about Security Classification Level vist [Saudi Regulations](https://cloud.stc.com.sa/saudi-regulations/ "saudi-regulations")
 
-* Referral code is simply a unique combination of numbers, letters, or both which are used as an identifier. Businesses use referral codes for their referral programs
+* Referral code is simply a unique combination of numbers, letters, or both which you get it from STC.
 
 Next
 * Click on Create Organization Account
